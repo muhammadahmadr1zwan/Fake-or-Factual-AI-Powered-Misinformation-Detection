@@ -31,13 +31,15 @@ This project explores how generative AI can help combat misinformation by detect
 
 ## 📌 Requirements
 
-pandas
-scikit-learn
-nltk
-transformers
-matplotlib
-seaborn
-- Install with: pip install -r requirements.txt
+`pandas`
+`scikit-learn`
+`nltk`
+`transformers`
+`matplotlib`
+`seaborn`
+
+- Install with: `pip install -r requirements.txt`
+
 
 ## 📬 Contact
 Developed by Muhammad Rizwan, contact me on my LinkedIn (https://www.linkedin.com/in/muhammad-ahmad-rizwan-16119a248/) or my email (ahmadzainab@outlook.com)!
